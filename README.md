@@ -1,2 +1,2 @@
 # compufix
-Productos Soluciones y Servicios Informaticos
+Productos Soluciones y Servicios Informáticos
